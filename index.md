@@ -2,10 +2,7 @@
 layout: default
 title: "Joel Hakavuori"
 ---
-
-# Joel Hakavuori
-
-PhD Student, IMJ-PRG / Sorbonne Université 
+  
 [CV](cv.pdf)
 
 ---
