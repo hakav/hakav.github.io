@@ -9,6 +9,8 @@ PhD Student in Mathematics, Sorbonne Université, Institut de mathématiques de 
 
 📬 hakavuori@imj-prg.fr
 
+--
+
 ## About Me
 
 I am a first-year PhD student at IMJ-PRG / Sorbonne Université, advised by [Karim Adiprasito](https://webusers.imj-prg.fr/%7Ekarim.adiprasito/). I am interested in the various interactions between algebraic geometry and combinatorics, especially toric geometry and combinatorial Hodge theory. I will spend the 2025-26 academic year at the University of Michigan as a Fulbright scholar.  
