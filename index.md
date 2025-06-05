@@ -9,7 +9,7 @@ title: "Joel Hakavuori"
 
 ## About Me
 
-I am a first-year PhD student at IMJ-PRG / Sorbonne Université, advised by [Karim Adiprasito](https://webusers.imj-prg.fr/%7Ekarim.adiprasito/). I am interested in the various interactions between algebraic geometry and combinatorics, especially toric geometry and combinatorial Hodge theory. Previously, I studied at Aalto University, where I completed an MSc in Mathematics (2024) a BSc in Engineering Physics and Mathematics (2023).
+I am a first-year PhD student at IMJ-PRG / Sorbonne Université, advised by [Karim Adiprasito](https://webusers.imj-prg.fr/%7Ekarim.adiprasito/). I am interested in the various interactions between algebraic geometry and combinatorics, especially toric geometry and combinatorial Hodge theory. Previously, I studied at Aalto University, where I completed an MSc in Mathematics (2024) and a BSc in Engineering Physics and Mathematics (2023).
 
 ---
 
