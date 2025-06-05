@@ -5,8 +5,9 @@ title: "Joel Hakavuori"
 
 # Joel Hakavuori
 
-PhD Student in Mathematics, Sorbonne Université, Institut de mathématiques de Jussieu – Paris Rive Gauche (IMJ-PRG)
-:mailbox_with_mail: hakavuori@imj-prg.fr
+PhD Student in Mathematics, Sorbonne Université, Institut de mathématiques de Jussieu – Paris Rive Gauche (IMJ-PRG)  
+
+📬 hakavuori@imj-prg.fr
 
 ## About Me
 
