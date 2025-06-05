@@ -1,3 +1,6 @@
 title: "Joel Hakavuori"
 description: "PhD Student at Institut de mathématiques de Jussieu – Paris Rive Gauche (IMJ-PRG)"
 theme: jekyll-theme-minimal
+
+include:
+  - _includes
