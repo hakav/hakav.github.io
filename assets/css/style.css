@@ -16,12 +16,12 @@ h1, h2, h3, h4 {
 }
 
 a {
-  color: #007777;
+  color: #003366;
   text-decoration: none;
 }
 
 a:hover {
-  color: #00aaaa;
+  color: #90D5FF;
   text-decoration: underline;
 }
 
