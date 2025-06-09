@@ -13,11 +13,11 @@ PhD Student in Mathematics at Sorbonne Université / IMJ-PRG
 
 ## About
 
-I am a PhD student at the Institut de Mathématiques de Jussieu–Paris Rive Gauche (IMJ-PRG), where I began my doctoral studies in January 2025 under the supervision of [Karim Adiprasito](https://webusers.imj-prg.fr/%7Ekarim.adiprasito/). My research interests lie at the intersection of algebraic geometry and combinatorics, with a particular focus on toric geometry and combinatorial Hodge theory.  
+I am a PhD student at Institut de Mathématiques de Jussieu–Paris Rive Gauche (IMJ-PRG), where I began my doctoral studies in January 2025 under the supervision of [Karim Adiprasito](https://webusers.imj-prg.fr/%7Ekarim.adiprasito/). I am broadly interested in the interplay between algebra, geometry and combinatorics, in particular through topics such as toric geometry and combinatorial Hodge theory.
 
-During the 2025–2026 academic year, I will be a Fulbright scholar at the University of Michigan.  
+I am supported by the [Osk. Huttunen Foundation](https://oskhuttunen.fi/). For the 2025–2026 academic year, I will be a Fulbright scholar at the University of Michigan, funded by a [Fulbright-Technology Industries of Finland](https://www.fulbright.fi/grants-masters-studies/fulbright-technology-industries-finland-grants) grant.
 
-Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineering Physics and Mathematics (2023) from Aalto University. You can find my full CV [here](cv625.pdf).
+Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineering Physics and Mathematics (2023) at Aalto University. You can find my full CV [here](cv625.pdf).
 
 ---
 
