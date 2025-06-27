@@ -25,3 +25,9 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 
 - Karim Adiprasito, Anders Björner, Joel Hakavuori, Minas Margaritis, Volkmar Welker, *Subadditivity of shifts, Eilenberg-Zilber shuffle products and homology of lattices*, [arXiv:2404.166432023](https://arxiv.org/abs/2404.16643) (submitted), 2024.
 
+---
+
+## Theses
+
+- My MSc thesis, *Nonpositive curvature, l2-invariants and right-angled Coxeter groups*, advised by Karim Adiprasito and Kaie Kubjas, is available [here](MScThesis.pdf).
+- My BSc thesis, *Hochster's formula in combinatorial commutative algebra*, advised by Milo Orlich and Alexander Engström, is available [here](BScThesis.pdf).
