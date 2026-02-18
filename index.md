@@ -3,6 +3,18 @@ layout: default
 title: Joel Hakavuori
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Joel Hakavuori",
+    "url": "https://hakav.github.io/",
+  }
+}
+</script>
+
 # Joel Hakavuori
 
 PhD Student in Mathematics at Sorbonne University / IMJ-PRG
