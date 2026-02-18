@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Joel Hakavuori"
+title: Joel Hakavuori
 ---
 
 # Joel Hakavuori
