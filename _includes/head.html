@@ -5,5 +5,25 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <link rel="canonical" href="https://hakav.github.io/">
-
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Joel Hakavuori",
+    "url": "https://hakav.github.io/",
+    "jobTitle": "PhD student",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "Sorbonne University, IMJ-PRG"
+    },
+    "sameAs": [
+      "https://github.com/hakav"
+    ]
+  }
+}
+</script>
+{% endif %}
 <link rel="stylesheet" href="/assets/css/style.css">
