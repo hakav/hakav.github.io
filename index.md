@@ -10,7 +10,7 @@ title: Joel Hakavuori
   "mainEntity": {
     "@type": "Person",
     "name": "Joel Hakavuori",
-    "url": "https://hakav.github.io/",
+    "url": "https://hakav.github.io/"
   }
 }
 </script>
