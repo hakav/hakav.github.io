@@ -19,15 +19,15 @@ title: Joel Hakavuori
 
 PhD Student in Mathematics at Sorbonne University / IMJ-PRG
 
-📬  [my-lastname]@imj-prg.fr
+📬  hakavuori@imj-prg.fr
 
 ---
 
 ## About
 
-I am a PhD student at Institut de Mathématiques de Jussieu–Paris Rive Gauche (IMJ-PRG), where I began my doctoral studies in January 2025 under the supervision of [Karim Adiprasito](https://webusers.imj-prg.fr/%7Ekarim.adiprasito/). I am interested in the interplay between algebra, geometry and combinatorics, in particular through topics such as combinatorial Hodge theory, commutative algebra and toric geometry.
+I am a PhD student at Sorbonne University / Institut de Mathématiques de Jussieu–Paris Rive Gauche (IMJ-PRG), where I began my doctoral studies in January 2025 under the supervision of [Karim Adiprasito](https://webusers.imj-prg.fr/%7Ekarim.adiprasito/). Broadly speaking, I am interested in the interplay between algebra, geometry, and combinatorics, in particular through commutative algebra, toric geometry, and combinatorial Hodge theory.
 
-I am supported by the [Osk. Huttunen Foundation](https://oskhuttunen.fi/). For the 2025–2026 academic year, I am visiting [David Speyer](https://websites.umich.edu/~speyer/) at the University of Michigan as a Fulbright grantee, funded by a [Fulbright-Technology Industries of Finland](https://www.fulbright.fi/grants-masters-studies/fulbright-technology-industries-finland-grants) grant.
+I am supported by the [Osk. Huttunen Foundation](https://oskhuttunen.fi/). For the 2025–2026 academic year, I was visiting [David Speyer](https://websites.umich.edu/~speyer/) at the University of Michigan as a Fulbright grantee, funded by a [Fulbright-Technology Industries of Finland](https://www.fulbright.fi/grants-masters-studies/fulbright-technology-industries-finland-grants) grant.
 
 Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineering Physics and Mathematics (2023) at Aalto University.
 
@@ -39,8 +39,9 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 
 ---
 
-## Talks
+## Talks & Posters
 
+- June 2026: AlCoVE 2026, Poster session
 - February 2026: University of Michigan, Student Combinatorics seminar
 - January 2026: University of Michigan, Commutative Algebra seminar
 - August 2025: Bernoulli Center, Lausanne, Summer School on Positivity in K-theory and Lattice Points (short talk)
