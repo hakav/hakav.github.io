@@ -17,7 +17,7 @@ title: Joel Hakavuori
 
 # Joel Hakavuori
 
-PhD Student in Mathematics at Sorbonne University / IMJ-PRG
+PhD Student in Mathematics at Sorbonne Université / IMJ-PRG
 
 📬  hakavuori@imj-prg.fr
 
@@ -34,13 +34,14 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 ---
 
 ## Research
-
-- Karim Adiprasito, Anders Björner, Joel Hakavuori, Minas Margaritis, Volkmar Welker, *Subadditivity of shifts, Eilenberg-Zilber shuffle products and homology of lattices*, [arXiv:2404.166432023](https://arxiv.org/abs/2404.16643) (submitted), 2024.
+- [*Discrete mixed volumes and Alexandrov--Fenchel-type inequalities*](DMV-AF_ineqs.pdf).
+- [*Subadditivity of shifts, Eilenberg-Zilber shuffle products and homology of lattices*](https://arxiv.org/abs/2404.16643), joint with Karim Adiprasito, Anders Björner, Minas Margaritis and Volkmar Welker.
 
 ---
 
 ## Talks & Posters
 
+- August 2026: Aalto University, Algebra, Geometry and Combinatorics seminar
 - June 2026: AlCoVE 2026, Poster session
 - February 2026: University of Michigan, Student Combinatorics seminar
 - January 2026: University of Michigan, Commutative Algebra seminar
