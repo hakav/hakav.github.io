@@ -40,7 +40,7 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 
 ---
 
-## Talks & Posters
+## Talks
 
 - October 2026: Queen Mary University of London, Combinatorial Algebraic Geometry Seminar
 - September 2026: IMJ-PRG, Combinatorics & Optimization Journée d'équipe
