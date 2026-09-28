@@ -55,8 +55,8 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 
 ## Theses
 
-- MSc thesis: [*Nonpositive curvature, l2-invariants and right-angled Coxeter groups*](MScThesis.pdf), advised by Karim Adiprasito and [Kaie Kubjas](https://www.kaiekubjas.com/).
-- BSc thesis: [*Hochster's formula in combinatorial commutative algebra*](BScThesis.pdf), advised by [Milo Orlich](https://sites.google.com/view/miloorlich/) and Alexander Engström.
+- MSc thesis: *Nonpositive curvature, l2-invariants and right-angled Coxeter groups*, advised by Karim Adiprasito and [Kaie Kubjas](https://www.kaiekubjas.com/).
+- BSc thesis: *Hochster's formula in combinatorial commutative algebra*, advised by [Milo Orlich](https://sites.google.com/view/miloorlich/) and Alexander Engström.
 
 ---
 
