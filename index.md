@@ -60,3 +60,7 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 
 ---
 
+My other academic interests include:
+- Formalization of mathematics in Lean.
+- Geometric and topological deep learning.
+
