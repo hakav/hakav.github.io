@@ -35,7 +35,7 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 
 ## Research
 - [*The g-theorem in smooth approximation*](https://arxiv.org/abs/2609.24790), 2026.
-- [*Discrete mixed volumes and Alexandrov--Fenchel-type inequalities*](DMV-AF_ineqs.pdf), 2026.
+- [*Discrete mixed volumes and Alexandrov--Fenchel-type inequalities*](https://hal.science/hal-05774751), 2026.
 - [*Subadditivity of shifts, Eilenberg-Zilber shuffle products and homology of lattices*](https://arxiv.org/abs/2404.16643), joint with Karim Adiprasito, Anders Björner, Minas Margaritis and Volkmar Welker, 2024.
 
 ---
