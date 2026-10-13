@@ -19,7 +19,7 @@ title: Joel Hakavuori
 
 PhD Student in Mathematics at Sorbonne Université / IMJ-PRG
 
-📬  hakavuori@imj-prg.fr
+hakavuori@imj-prg.fr
 
 ---
 
