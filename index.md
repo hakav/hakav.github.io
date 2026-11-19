@@ -34,7 +34,7 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 ---
 
 ## Research
-- [*The g-theorem in smooth approximation*](https://arxiv.org/abs/2609.24790), 2026.
+- [*The g-theorem in smooth approximation*](https://arxiv.org/abs/2609.24790), 2026. [Blog post](https://kaguprasetya.com/2026/11/16/smooth-polytopes-die-zweite/).
 - [*Discrete mixed volumes and Alexandrov--Fenchel-type inequalities*](https://hal.science/hal-05774751), 2026.
 - [*Subadditivity of shifts, Eilenberg-Zilber shuffle products and homology of lattices*](https://arxiv.org/abs/2404.16643), joint with Karim Adiprasito, Anders Björner, Minas Margaritis and Volkmar Welker, 2024.
 
@@ -53,6 +53,12 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 
 ---
 
+## Other
+
+- [Fedder's criterion and Hard Lefschetz for Gorenstein F-pure rings](https://kaguprasetya.com/2026/06/11/pipe-dreams-in-commutative-algebra-purity-of-frobenius-and-gorenstein-domains-the-lefschetz-property-is-not-so-ubiquitous/)
+
+---
+
 ## Theses
 
 - MSc thesis: *Nonpositive curvature, l2-invariants and right-angled Coxeter groups*, advised by Karim Adiprasito and [Kaie Kubjas](https://www.kaiekubjas.com/).
@@ -61,6 +67,7 @@ Prior to my PhD, I completed an MSc in Mathematics (2024) and a BSc in Engineeri
 ---
 
 My other academic interests include:
-- Formalization of mathematics in Lean.
+- Interpretability and AI safety,
+- Formalization of mathematics in Lean,
 - Geometric and topological deep learning.
 
